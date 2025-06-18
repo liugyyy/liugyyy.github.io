@@ -3,8 +3,7 @@ title: "Distributionally Robust Stochastic Knapsack Problem with Wasserstein
 Metric"
 collection: publications
 category: manuscripts
-permalink: /publication/Distributionally Robust Stochastic Knapsack Problem with Wasserstein
-Metric
+permalink: /publication/Distributionally-Robust-Stochastic-Knapsack-Problem-with-Wasserstein-Metric
 excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
 date: 2025-06-01
 venue: 'Journal 1'
