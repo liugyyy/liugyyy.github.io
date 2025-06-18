@@ -1,9 +1,9 @@
 ---
 title: "Distributionally Robust Stochastic Knapsack Problem with Wasserstein
 Metric"
-collection: publications
+#collection: publications
 category: manuscripts
-permalink: /publication/Distributionally-Robust-Stochastic-Knapsack-Problem-with-Wasserstein-Metric
+#permalink: /publication/Distributionally-Robust-Stochastic-Knapsack-Problem-with-Wasserstein-Metric
 excerpt: 'This paper is about application of Wasserstein DRO theory.'
 date: 2025-06-01
 venue: 'Optimization Letters (Under Review)'
