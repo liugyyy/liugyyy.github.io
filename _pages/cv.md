@@ -11,7 +11,6 @@ redirect_from:
 
 Education
 ======
-#* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
 * M.S. in Optimization and Control, Shanghai University of Finance and Economics, 2022-2025
 * B.S. in Applied Mathematics, China University of Petroleum (East China), 2018-2022
 
